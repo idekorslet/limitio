@@ -1,4 +1,4 @@
-<h3>📜 PRIVACY POLICY — LIMITIO (Versi Bahasa Indonesia)</h3>
+<h3>📜 PRIVACY POLICY — LIMITIO (Bahasa Indonesia)</h3>
 Terakhir diperbarui: 19/02/2026
 
 Aplikasi Limitio menghargai privasi pengguna. Kebijakan Privasi ini menjelaskan bagaimana aplikasi digunakan dan bagaimana data diperlakukan.
@@ -94,7 +94,7 @@ Aplikasi Limitio menghargai privasi pengguna. Kebijakan Privasi ini menjelaskan 
 &emsp;Untuk pertanyaan terkait privasi:<br>
 &emsp;Email: aaulabs88@gmail.com
 <hr>
-<h3>📜 PRIVACY POLICY — LIMITIO (English Version)</h3>
+<h3>📜 PRIVACY POLICY — LIMITIO (English)</h3>
 Last updated: 19/02/2026
 
 Limitio respects user privacy. This Privacy Policy explains how the application operates and how data is handled.
