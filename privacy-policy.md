@@ -93,7 +93,7 @@ Aplikasi Limitio menghargai privasi pengguna. Kebijakan Privasi ini menjelaskan 
 
 &emsp;Untuk pertanyaan terkait privasi:<br>
 &emsp;Email: aaulabs88@gmail.com
-
+<hr>
 <h3>📜 PRIVACY POLICY — LIMITIO (English Version)</h3>
 Last updated: 19/02/2026
 
